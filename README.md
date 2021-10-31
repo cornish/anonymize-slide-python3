@@ -33,6 +33,13 @@ Requirements
 
  * Python 3.0+
 
+Changes
+-------
+
+1. Basic update using 2to3
+2. Updates for byte/str representation and methods
+3. TiffFile class modified, because "file" no longer exists to inherit from
+
 License
 -------
 
