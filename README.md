@@ -3,7 +3,7 @@ anonymize-slide
 
 This is [Benjamin Gilbert's anonymize-slide](https://github.com/bgilbert/anonymize-slide) program updated to run under python3.
 
-**PLEASE NOTE THIS PYTHON3 UPDATE HAS NOT BEEN TESTED WITH MRXS FILES, HOWEVER THAT CODE WAS NOT CHANGED**
+**Please note that the updated code has not been tested with MRXS files**
 
 This is a program to remove the slide label from whole-slide images in the
 following formats:
